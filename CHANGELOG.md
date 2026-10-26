@@ -2,6 +2,12 @@
 
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions: [SemVer](https://semver.org/). The `.app` build number is the commit count.
 
+## [0.3.1-zh.1] - 2026-10-26
+
+### Added
+- Chinese README with feature descriptions, installation steps, compatibility limits and upstream credits.
+- A reproducible universal DMG packaging script and Chinese installation notes.
+
 ## [Unreleased]
 
 ### Added
