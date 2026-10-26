@@ -7,7 +7,12 @@ import Testing
         let sps: [UInt8] = [0x67, 0x64, 0x00, 0x1F]
         let pps: [UInt8] = [0x68, 0xEE, 0x3C, 0x80]
         let idr: [UInt8] = [0x65, 0x88, 0x84, 0x00, 0x00, 0x03, 0x01]  // an emulation-prevented 00 00 03 stays inside
-        let stream = [0, 0, 0, 1] + sps + [0, 0, 1] + pps + [0, 0, 0, 1] + idr
+        var stream: [UInt8] = [0, 0, 0, 1]
+        stream += sps
+        stream += [0, 0, 1]
+        stream += pps
+        stream += [0, 0, 0, 1]
+        stream += idr
         let units = H264AnnexB.units(stream)
         #expect(units == [sps, pps, idr])
         #expect(units.map(H264AnnexB.type) == [7, 8, 5])

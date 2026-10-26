@@ -10,6 +10,12 @@ struct SettingsView: View {
     @State private var disconnectWhenDone = Preferences.disconnectWhenDone
     @State private var notifyWhenDone = Preferences.notifyWhenDone
     @State private var confirmForget = false
+    @State private var language =
+        UserDefaults.standard.persistentDomain(
+            forName: Bundle.main.bundleIdentifier ?? "io.github.smithplus.osmotic")?["AppleLanguages"]
+        .flatMap { $0 as? [String] }?.first ?? "system"
+    @State private var languageChanged = false
+    @State private var restarting = false
 
     var body: some View {
         TabView {
@@ -22,6 +28,46 @@ struct SettingsView: View {
 
     private var general: some View {
         Form {
+            Section("Language") {
+                Picker("Interface language", selection: $language) {
+                    Text("Follow System").tag("system")
+                    Text(verbatim: "简体中文").tag("zh-Hans")
+                    Text(verbatim: "English").tag("en")
+                }
+                .pickerStyle(.segmented)
+                .onChange(of: language) {
+                    if language == "system" {
+                        UserDefaults.standard.removeObject(forKey: "AppleLanguages")
+                    } else {
+                        UserDefaults.standard.set([language], forKey: "AppleLanguages")
+                    }
+                    languageChanged = true
+                }
+                if languageChanged {
+                    Text("Restart to apply the language to all windows and menus. Your camera will disconnect first.")
+                        .font(.footnote).foregroundStyle(.secondary)
+                    Button("Restart Now") {
+                        restarting = true
+                        Task { @MainActor in
+                            if model.screen == .connecting { model.cancelConnect() }
+                            if model.screen == .library { await model.disconnect() }
+                            await model.finishWifiWork()
+                            let relaunch = Process()
+                            relaunch.executableURL = URL(fileURLWithPath: "/bin/sh")
+                            relaunch.arguments = [
+                                "-c", "sleep 1; /usr/bin/open \"$1\"", "osmotic-relaunch", Bundle.main.bundlePath,
+                            ]
+                            do {
+                                try relaunch.run()
+                                NSApp.terminate(nil)
+                            } catch {
+                                restarting = false
+                            }
+                        }
+                    }
+                    .disabled(restarting || model.transfer != nil)
+                }
+            }
             Section("Downloads") {
                 LabeledContent("Folder") {
                     HStack {

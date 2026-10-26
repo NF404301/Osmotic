@@ -362,7 +362,14 @@ public final class CameraSession: @unchecked Sendable {
     /// `[02 02 00 00][subId u32][00 00 00][nameLen+6 u16][nameLen u16][name][00 00 00 00]`.
     static func subscription(_ name: String, subId: Int) -> [UInt8] {
         let n = Array(name.utf8)
-        return [0x02, 0x02, 0x00, 0x00] + LE.u32(subId) + [0, 0, 0] + LE.u16(n.count + 6) + LE.u16(n.count) + n + [0, 0, 0, 0]
+        var payload: [UInt8] = [0x02, 0x02, 0x00, 0x00]
+        payload += LE.u32(subId)
+        payload += [0, 0, 0]
+        payload += LE.u16(n.count + 6)
+        payload += LE.u16(n.count)
+        payload += n
+        payload += [0, 0, 0, 0]
+        return payload
     }
 
     /// Set the camera clock + timezone to the Mac's (`0x00/0x6a` to the RTC receiver `0x28`).

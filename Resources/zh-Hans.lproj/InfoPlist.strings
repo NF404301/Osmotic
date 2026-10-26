@@ -1,0 +1,7 @@
+"NSBluetoothAlwaysUsageDescription" = "Osmotic 使用蓝牙查找 DJI 相机，并请求相机开启 Wi-Fi。";
+"NSLocalNetworkUsageDescription" = "Osmotic 通过相机自己的 Wi-Fi 读取和下载素材。";
+"NSRemovableVolumesUsageDescription" = "通过 USB 连接相机时，Osmotic 读取存储卡并将素材复制到 Mac。";
+"NSDownloadsFolderUsageDescription" = "Osmotic 将相机视频和照片保存到下载文件夹中的 DJI 文件夹。";
+"NSCameraUsageDescription" = "通过 USB 将 DJI 相机作为网络摄像头连接时，Osmotic 显示相机画面。";
+"NSLocationUsageDescription" = "macOS 仅向有定位权限的应用提供 Wi-Fi 名称。Osmotic 用于断开相机后恢复原网络，不记录位置。";
+"NSLocationWhenInUseUsageDescription" = "macOS 仅向有定位权限的应用提供 Wi-Fi 名称。Osmotic 用于断开相机后恢复原网络，不记录位置。";

@@ -8,6 +8,12 @@
             "state": "translated",
             "value": "%@ libres de %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用 %@，共 %@"
+          }
         }
       }
     },
@@ -17,6 +23,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ en %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@，用时 %@"
           }
         }
       }
@@ -28,6 +40,12 @@
             "state": "translated",
             "value": "%@/s"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@/秒"
+          }
         }
       }
     },
@@ -37,6 +55,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%lld descargados, %lld no. Abrí Osmotic para reintentar."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已下载 %lld 个，%lld 个未完成。打开 Osmotic 重试。"
           }
         }
       }
@@ -78,6 +102,12 @@
               }
             }
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发现 %lld 台相机"
+          }
         }
       }
     },
@@ -117,6 +147,12 @@
                 }
               }
             }
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 个文件"
           }
         }
       }
@@ -158,6 +194,12 @@
               }
             }
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 个文件下载失败。重试可继续下载。"
+          }
         }
       }
     },
@@ -167,6 +209,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%lld de 4"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4 格中的 %lld 格"
           }
         }
       }
@@ -178,6 +226,12 @@
             "state": "translated",
             "value": "En su pantalla aparece un pedido de emparejamiento: tocá la tilde. Solo la primera vez."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机屏幕会显示配对请求，点勾确认。仅首次连接需要。"
+          }
         }
       }
     },
@@ -187,6 +241,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Agregar a la selección"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加入选择"
           }
         }
       }
@@ -198,6 +258,12 @@
             "state": "translated",
             "value": "Todo"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部"
+          }
         }
       }
     },
@@ -207,6 +273,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Todo descargado"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部已下载"
           }
         }
       }
@@ -218,6 +290,12 @@
             "state": "translated",
             "value": "Todo en cola"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部已加入队列"
+          }
         }
       }
     },
@@ -227,6 +305,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ya está en tu carpeta de descargas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已在下载文件夹中"
           }
         }
       }
@@ -238,6 +322,12 @@
             "state": "translated",
             "value": "Aprobá en la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在相机上确认"
+          }
         }
       }
     },
@@ -247,6 +337,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aprobá la conexión en la cámara"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在相机上允许连接"
           }
         }
       }
@@ -258,6 +354,12 @@
             "state": "translated",
             "value": "Aprobá la conexión en la pantalla de la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在相机屏幕上允许连接"
+          }
         }
       }
     },
@@ -267,6 +369,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Como webcam, la imagen va por el cable en calidad completa y la cámara se carga. La pestaña En vivo funciona sin cable, por Wi-Fi, en calidad de vista previa."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作为网络摄像头时，通过数据线传输原画质画面并给相机充电。实时画面通过 Wi-Fi 传输预览画质，无需数据线。"
           }
         }
       }
@@ -278,6 +386,12 @@
             "state": "translated",
             "value": "Pidiendo la red Wi-Fi a la cámara…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在获取相机的 Wi-Fi 信息…"
+          }
         }
       }
     },
@@ -287,6 +401,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Volver"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "返回"
           }
         }
       }
@@ -298,6 +418,12 @@
             "state": "translated",
             "value": "Bat"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "电量"
+          }
         }
       }
     },
@@ -308,11 +434,25 @@
             "state": "translated",
             "value": "Parpadeando"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "闪烁"
+          }
         }
       }
     },
     "Bluetooth": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝牙"
+          }
+        }
+      }
     },
     "Bluetooth is off. Turn it on to find your camera.": {
       "localizations": {
@@ -320,6 +460,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "El Bluetooth está apagado. Encendelo para encontrar tu cámara."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝牙已关闭。打开蓝牙以查找相机。"
           }
         }
       }
@@ -331,6 +477,12 @@
             "state": "translated",
             "value": "Bluetooth apagado"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝牙已关闭"
+          }
         }
       }
     },
@@ -340,6 +492,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ráfaga"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连拍"
           }
         }
       }
@@ -351,6 +509,12 @@
             "state": "translated",
             "value": "Invitame un café"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请作者喝杯咖啡"
+          }
         }
       }
     },
@@ -360,6 +524,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cámara"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机"
           }
         }
       }
@@ -371,6 +541,12 @@
             "state": "translated",
             "value": "Wi-Fi de la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机 Wi-Fi"
+          }
         }
       }
     },
@@ -380,6 +556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Contraseña Wi-Fi de la cámara"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机 Wi-Fi 密码"
           }
         }
       }
@@ -391,6 +573,12 @@
             "state": "translated",
             "value": "Enlace con la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机连接"
+          }
         }
       }
     },
@@ -400,6 +588,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cancelar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
           }
         }
       }
@@ -411,6 +605,12 @@
             "state": "translated",
             "value": "No se encuentra la cámara. Encendela y acercala a la Mac."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "找不到相机。请开机并将其靠近 Mac。"
+          }
         }
       }
     },
@@ -420,6 +620,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tarjeta"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储卡"
           }
         }
       }
@@ -431,6 +637,12 @@
             "state": "translated",
             "value": "Cambiar…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更改…"
+          }
         }
       }
     },
@@ -440,6 +652,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Buscar ahora"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即检查"
           }
         }
       }
@@ -451,6 +669,12 @@
             "state": "translated",
             "value": "Buscar actualizaciones…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "检查更新…"
+          }
         }
       }
     },
@@ -460,6 +684,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Buscar actualizaciones automáticamente"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动检查更新"
           }
         }
       }
@@ -471,6 +701,12 @@
             "state": "translated",
             "value": "Buscando…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在检查…"
+          }
         }
       }
     },
@@ -480,6 +716,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Elegir"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择"
           }
         }
       }
@@ -491,6 +733,12 @@
             "state": "translated",
             "value": "Elegir tarjeta…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择存储卡…"
+          }
         }
       }
     },
@@ -500,6 +748,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cerrar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
           }
         }
       }
@@ -511,6 +765,12 @@
             "state": "translated",
             "value": "Código"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "代码"
+          }
         }
       }
     },
@@ -520,6 +780,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conectar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连接"
           }
         }
       }
@@ -531,6 +797,12 @@
             "state": "translated",
             "value": "Conectar a %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连接 %@"
+          }
         }
       }
     },
@@ -540,6 +812,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conectadas antes"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "曾经连接"
           }
         }
       }
@@ -551,6 +829,12 @@
             "state": "translated",
             "value": "Conectando"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在连接"
+          }
         }
       }
     },
@@ -560,6 +844,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conexión"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连接"
           }
         }
       }
@@ -571,6 +861,12 @@
             "state": "translated",
             "value": "Continuar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续"
+          }
         }
       }
     },
@@ -580,6 +876,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Copiar todo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部复制"
           }
         }
       }
@@ -591,6 +893,12 @@
             "state": "translated",
             "value": "No se pudo conectar por Bluetooth. ¿La cámara está encendida y cerca?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝牙连接失败。请确认相机已开机并在附近。"
+          }
         }
       }
     },
@@ -600,6 +908,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "No se pudo expulsar la tarjeta. Cerrá lo que la esté leyendo y probá de nuevo."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法推出存储卡。关闭正在读取它的程序后重试。"
           }
         }
       }
@@ -611,6 +925,12 @@
             "state": "translated",
             "value": "No se pudo volver solo a tu Wi-Fi. Elegí tu red en la barra de menús."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法自动恢复原来的 Wi-Fi。请在菜单栏选择你的网络。"
+          }
         }
       }
     },
@@ -620,6 +940,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "No se pudo entrar a la red Wi-Fi de la cámara (%@). Acercá la Mac a la cámara y probá de nuevo."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法加入相机的 Wi-Fi（%@）。将 Mac 靠近相机后重试。"
           }
         }
       }
@@ -631,6 +957,12 @@
             "state": "translated",
             "value": "No se pudo abrir la vista previa"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法打开预览"
+          }
         }
       }
     },
@@ -640,6 +972,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "No se pudo llegar a GitHub. Revisá tu conexión a Internet."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法访问 GitHub。请检查互联网连接。"
           }
         }
       }
@@ -651,6 +989,12 @@
             "state": "translated",
             "value": "Créditos"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "致谢"
+          }
         }
       }
     },
@@ -660,6 +1004,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Deseleccionar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消选择"
           }
         }
       }
@@ -671,6 +1021,12 @@
             "state": "translated",
             "value": "Deseleccionar todo (esc)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消全选（Esc）"
+          }
         }
       }
     },
@@ -680,6 +1036,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Detalles"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "详情"
           }
         }
       }
@@ -691,6 +1053,12 @@
             "state": "translated",
             "value": "Desconectar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "断开连接"
+          }
         }
       }
     },
@@ -700,6 +1068,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Desconectar y cancelar la descarga"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "断开连接并取消下载"
           }
         }
       }
@@ -711,6 +1085,12 @@
             "state": "translated",
             "value": "Desconectar automáticamente al terminar de descargar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载完成后自动断开连接"
+          }
         }
       }
     },
@@ -720,6 +1100,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Desconectate de la cámara para instalar."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请断开相机连接后安装。"
           }
         }
       }
@@ -731,6 +1117,12 @@
             "state": "translated",
             "value": "¿Desconectar mientras se descargan archivos?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件正在下载，是否断开连接？"
+          }
         }
       }
     },
@@ -740,6 +1132,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Listo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
           }
         }
       }
@@ -751,6 +1149,12 @@
             "state": "translated",
             "value": "Listo: %@ en %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已完成：%@，用时 %@"
+          }
         }
       }
     },
@@ -761,6 +1165,12 @@
             "state": "translated",
             "value": "Descargar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载"
+          }
         }
       }
     },
@@ -770,6 +1180,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descargar %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 %@"
           }
         }
       }
@@ -811,6 +1227,12 @@
               }
             }
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 %lld 个新文件"
+          }
         }
       }
     },
@@ -851,6 +1273,12 @@
               }
             }
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载选中的 %lld 个文件"
+          }
         }
       }
     },
@@ -860,6 +1288,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descargar día"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载当天素材"
           }
         }
       }
@@ -871,6 +1305,12 @@
             "state": "translated",
             "value": "Descargar nuevos"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载新素材"
+          }
         }
       }
     },
@@ -880,6 +1320,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descargar selección"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载所选素材"
           }
         }
       }
@@ -891,6 +1337,12 @@
             "state": "translated",
             "value": "Descarga cancelada"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载已取消"
+          }
         }
       }
     },
@@ -900,6 +1352,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descarga cancelada. Lo que ya llegó quedó guardado."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载已取消。已下载的内容已保留。"
           }
         }
       }
@@ -911,6 +1369,12 @@
             "state": "translated",
             "value": "Descargar todo lo que todavía no está en tu carpeta (⇧⌘D)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载本地尚未保存的全部素材（⇧⌘D）"
+          }
         }
       }
     },
@@ -920,6 +1384,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descarga terminada"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载完成"
           }
         }
       }
@@ -931,6 +1401,12 @@
             "state": "translated",
             "value": "Descarga incompleta"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载未完成"
+          }
         }
       }
     },
@@ -940,6 +1416,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descargalo para verlo en calidad completa."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载后可查看原画质。"
           }
         }
       }
@@ -951,6 +1433,12 @@
             "state": "translated",
             "value": "Descargar la selección (⌘D)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载所选素材（⌘D）"
+          }
         }
       }
     },
@@ -960,6 +1448,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Descargando %@…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在下载 %@…"
           }
         }
       }
@@ -971,6 +1465,12 @@
             "state": "translated",
             "value": "Descargas"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载"
+          }
         }
       }
     },
@@ -980,6 +1480,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Expulsar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推出"
           }
         }
       }
@@ -991,11 +1497,25 @@
             "state": "translated",
             "value": "Ingresá la contraseña Wi-Fi de la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入相机 Wi-Fi 密码"
+          }
         }
       }
     },
     "Error": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "错误"
+          }
+        }
+      }
     },
     "Failed": {
       "localizations": {
@@ -1003,6 +1523,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Falló"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "失败"
           }
         }
       }
@@ -1014,6 +1540,12 @@
             "state": "translated",
             "value": "Archivo"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件"
+          }
         }
       }
     },
@@ -1023,6 +1555,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Archivos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "素材"
           }
         }
       }
@@ -1034,6 +1572,12 @@
             "state": "translated",
             "value": "Filtrar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "筛选"
+          }
         }
       }
     },
@@ -1043,6 +1587,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Terminá o cancelá las descargas antes de usar la cámara."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先完成或取消下载，再使用相机。"
           }
         }
       }
@@ -1054,6 +1604,12 @@
             "state": "translated",
             "value": "Carpeta"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件夹"
+          }
         }
       }
     },
@@ -1063,6 +1619,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Olvidar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "忘记"
           }
         }
       }
@@ -1074,6 +1636,12 @@
             "state": "translated",
             "value": "Olvidar todas…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部忘记…"
+          }
         }
       }
     },
@@ -1083,6 +1651,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Olvidar las cámaras guardadas?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "忘记已保存的相机？"
           }
         }
       }
@@ -1094,6 +1668,12 @@
             "state": "translated",
             "value": "Libre"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用"
+          }
         }
       }
     },
@@ -1103,6 +1683,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "General"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用"
           }
         }
       }
@@ -1114,6 +1700,12 @@
             "state": "translated",
             "value": "GitHub no respondió. Probá más tarde."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub 未响应。请稍后重试。"
+          }
         }
       }
     },
@@ -1123,6 +1715,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Volver a mi Wi-Fi al desconectar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "断开连接后恢复原来的 Wi-Fi"
           }
         }
       }
@@ -1134,6 +1732,12 @@
             "state": "translated",
             "value": "Volviendo a tu Wi-Fi…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在恢复原来的 Wi-Fi…"
+          }
         }
       }
     },
@@ -1143,6 +1747,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Hyperlapse"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "运动延时"
           }
         }
       }
@@ -1154,6 +1764,12 @@
             "state": "translated",
             "value": "En curso"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "进行中"
+          }
         }
       }
     },
@@ -1163,6 +1779,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Incluir RAW (.DNG) y audio de respaldo (.WAV) cuando existan"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "同时下载 RAW（.DNG）和备份音频（.WAV）（如有）"
           }
         }
       }
@@ -1174,6 +1796,12 @@
             "state": "translated",
             "value": "Instalar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "安装"
+          }
         }
       }
     },
@@ -1183,6 +1811,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Instalar %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "安装 %@"
           }
         }
       }
@@ -1194,6 +1828,12 @@
             "state": "translated",
             "value": "Aparece acá, y como cámara en Zoom, Meet, FaceTime u OBS."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "画面会显示在这里，也可在 Zoom、Meet、FaceTime 或 OBS 中作为摄像头使用。"
+          }
         }
       }
     },
@@ -1203,6 +1843,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conectando a %@…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加入 %@…"
           }
         }
       }
@@ -1214,6 +1860,12 @@
             "state": "translated",
             "value": "Última búsqueda %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上次检查：%@"
+          }
         }
       }
     },
@@ -1223,6 +1875,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Falta"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剩余"
           }
         }
       }
@@ -1234,6 +1892,12 @@
             "state": "translated",
             "value": "Biblioteca"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "素材库"
+          }
         }
       }
     },
@@ -1243,6 +1907,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enlace"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连接"
           }
         }
       }
@@ -1254,6 +1924,12 @@
             "state": "translated",
             "value": "Enlazada"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已连接"
+          }
         }
       }
     },
@@ -1263,6 +1939,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "En vivo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实时画面"
           }
         }
       }
@@ -1274,6 +1956,12 @@
             "state": "translated",
             "value": "Vista en vivo"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实时预览"
+          }
         }
       }
     },
@@ -1283,6 +1971,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Vista en vivo apagada"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实时预览已关闭"
           }
         }
       }
@@ -1294,6 +1988,12 @@
             "state": "translated",
             "value": "Cargando archivos más antiguos"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加载更早的素材"
+          }
         }
       }
     },
@@ -1303,6 +2003,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Registro"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日志"
           }
         }
       }
@@ -1314,6 +2020,12 @@
             "state": "translated",
             "value": "Buscando %@…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在查找 %@…"
+          }
         }
       }
     },
@@ -1323,6 +2035,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Se perdió el contacto con la cámara. Fijate que esté encendida y cerca, y reconectá."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机连接已丢失。确认相机已开机并在附近，然后重新连接。"
           }
         }
       }
@@ -1334,6 +2052,12 @@
             "state": "translated",
             "value": "Poca luz"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "低光"
+          }
         }
       }
     },
@@ -1343,6 +2067,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Licencia MIT. Sin afiliación con DJI."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MIT 许可证。与 DJI 无关联。"
           }
         }
       }
@@ -1354,6 +2084,12 @@
             "state": "translated",
             "value": "Hecho por"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作者"
+          }
         }
       }
     },
@@ -1363,6 +2099,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mantenimiento"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "维护"
           }
         }
       }
@@ -1374,6 +2116,12 @@
             "state": "translated",
             "value": "Medido leyendo el clip más grande de la tarjeta"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过读取存储卡中最大的视频测量"
+          }
         }
       }
     },
@@ -1383,6 +2131,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Medido leyendo el clip más grande de la tarjeta. Un cable que solo lleva USB 2 no pasa de unos 40 MB/s."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过读取存储卡中最大的视频测量。仅支持 USB 2 的数据线速度上限约为 40 MB/秒。"
           }
         }
       }
@@ -1394,6 +2148,12 @@
             "state": "translated",
             "value": "Modo"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模式"
+          }
         }
       }
     },
@@ -1403,6 +2163,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Motionlapse"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轨迹延时"
           }
         }
       }
@@ -1414,6 +2180,12 @@
             "state": "translated",
             "value": "Mové el Osmotic nuevo desde Finder a Aplicaciones para terminar."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将新版 Osmotic 从访达移入“应用程序”以完成安装。"
+          }
         }
       }
     },
@@ -1423,6 +2195,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cerca"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附近设备"
           }
         }
       }
@@ -1434,6 +2212,12 @@
             "state": "translated",
             "value": "Nuevos"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新素材"
+          }
         }
       }
     },
@@ -1443,6 +2227,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Siguiente"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一个"
           }
         }
       }
@@ -1454,6 +2244,12 @@
             "state": "translated",
             "value": "Siguiente (→)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一个（→）"
+          }
         }
       }
     },
@@ -1463,6 +2259,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La próxima vez vas a tener que buscarlas de nuevo. El historial de descargas se mantiene."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下次需要重新查找这些相机。下载记录会保留。"
           }
         }
       }
@@ -1474,6 +2276,12 @@
             "state": "translated",
             "value": "Sin Bluetooth LE"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不支持低功耗蓝牙"
+          }
         }
       }
     },
@@ -1483,6 +2291,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sin acceso a Bluetooth"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无蓝牙访问权限"
           }
         }
       }
@@ -1494,6 +2308,12 @@
             "state": "translated",
             "value": "Sin cámara USB"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未发现 USB 摄像头"
+          }
         }
       }
     },
@@ -1503,6 +2323,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sin acceso a la cámara"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无摄像头访问权限"
           }
         }
       }
@@ -1514,6 +2340,12 @@
             "state": "translated",
             "value": "Sin fecha"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无日期"
+          }
         }
       }
     },
@@ -1523,6 +2355,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esta cámara no envía imagen en vivo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此相机不支持实时画面"
           }
         }
       }
@@ -1534,6 +2372,12 @@
             "state": "translated",
             "value": "Sin señal"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无信号"
+          }
         }
       }
     },
@@ -1543,6 +2387,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Todavía no se buscó"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "尚未检查"
           }
         }
       }
@@ -1554,6 +2404,12 @@
             "state": "translated",
             "value": "Sin conexión"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未连接"
+          }
         }
       }
     },
@@ -1563,6 +2419,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nada para mostrar acá"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无内容"
           }
         }
       }
@@ -1574,6 +2436,12 @@
             "state": "translated",
             "value": "Apagado"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
         }
       }
     },
@@ -1583,6 +2451,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Encendido"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启"
           }
         }
       }
@@ -1594,6 +2468,12 @@
             "state": "translated",
             "value": "En Mac"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已在 Mac 上"
+          }
         }
       }
     },
@@ -1603,6 +2483,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "En la cámara, elegí Webcam cuando pregunte cómo conectarse."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机询问连接方式时，请选择“网络摄像头”。"
           }
         }
       }
@@ -1614,6 +2500,12 @@
             "state": "translated",
             "value": "Abrir"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开"
+          }
         }
       }
     },
@@ -1623,6 +2515,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abrir carpeta de descargas"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开下载文件夹"
           }
         }
       }
@@ -1634,6 +2532,12 @@
             "state": "translated",
             "value": "Abrir carpeta"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开文件夹"
+          }
         }
       }
     },
@@ -1643,6 +2547,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abrir la configuración de Osmotic"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开 Osmotic 设置"
           }
         }
       }
@@ -1654,6 +2564,12 @@
             "state": "translated",
             "value": "Abrir la página de la versión"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开版本发布页"
+          }
         }
       }
     },
@@ -1663,6 +2579,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Abrir Ajustes"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开设置"
           }
         }
       }
@@ -1674,6 +2596,12 @@
             "state": "translated",
             "value": "Abrir la tarjeta %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开存储卡 %@"
+          }
         }
       }
     },
@@ -1684,11 +2612,25 @@
             "state": "translated",
             "value": "Osmo › Mac  ·  Inalámbrico  ·  Sin teléfono"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmo › Mac · 无线连接 · 无需手机"
+          }
         }
       }
     },
     "Osmotic": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic"
+          }
+        }
+      }
     },
     "Osmotic %@ is available.": {
       "localizations": {
@@ -1696,6 +2638,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Osmotic %@ está disponible."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic %@ 已发布。"
           }
         }
       }
@@ -1707,6 +2655,12 @@
             "state": "translated",
             "value": "Ayuda de Osmotic"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 帮助"
+          }
         }
       }
     },
@@ -1716,6 +2670,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Osmotic le pregunta a GitHub (api.github.com) por la última versión; no se manda nada sobre vos ni tu cámara. Las actualizaciones se instalan solo si su firma coincide con la clave incluida en la app."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 向 GitHub（api.github.com）查询最新版本，不会发送你或相机的信息。只有更新签名与应用内置密钥匹配时才会安装。"
           }
         }
       }
@@ -1727,6 +2687,12 @@
             "state": "translated",
             "value": "Osmotic no tiene permiso de Bluetooth. Activalo en Configuración del Sistema › Privacidad y seguridad › Bluetooth."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 没有蓝牙权限。请在“系统设置 › 隐私与安全性 › 蓝牙”中开启。"
+          }
         }
       }
     },
@@ -1736,6 +2702,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Osmotic está actualizada."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 已是最新版本。"
           }
         }
       }
@@ -1747,6 +2719,12 @@
             "state": "translated",
             "value": "Osmotic necesita permiso de Bluetooth: Configuración del Sistema › Privacidad y seguridad › Bluetooth."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 需要蓝牙权限：系统设置 › 隐私与安全性 › 蓝牙。"
+          }
         }
       }
     },
@@ -1756,6 +2734,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Osmotic en GitHub"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 GitHub 查看 Osmotic"
           }
         }
       }
@@ -1767,6 +2751,12 @@
             "state": "translated",
             "value": "Osmotic se apoya en el trabajo de quienes abrieron las cámaras de DJI cuando DJI no lo hizo. Gracias."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic 建立在探索 DJI 相机开放连接方式的开发者们的工作之上。感谢他们。"
+          }
         }
       }
     },
@@ -1776,6 +2766,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Emparejar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对"
           }
         }
       }
@@ -1787,6 +2783,12 @@
             "state": "translated",
             "value": "Emparejamiento"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在配对"
+          }
         }
       }
     },
@@ -1796,6 +2798,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Emparejando con la cámara…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在与相机配对…"
           }
         }
       }
@@ -1807,6 +2815,12 @@
             "state": "translated",
             "value": "Pano"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全景"
+          }
         }
       }
     },
@@ -1816,6 +2830,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "En pausa"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已暂停"
           }
         }
       }
@@ -1827,6 +2847,12 @@
             "state": "translated",
             "value": "Foto"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍照"
+          }
         }
       }
     },
@@ -1836,6 +2862,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fotos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "照片"
           }
         }
       }
@@ -1847,6 +2879,12 @@
             "state": "translated",
             "value": "Elegila como cámara en Zoom, Meet, FaceTime, OBS o cualquier otra app. Osmotic no necesita quedar abierta."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Zoom、Meet、FaceTime、OBS 等应用中选择此摄像头。无需保持 Osmotic 运行。"
+          }
         }
       }
     },
@@ -1856,6 +2894,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Elegí la tarjeta de la cámara (el disco que tiene una carpeta DCIM)."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择相机存储卡（包含 DCIM 文件夹的磁盘）。"
           }
         }
       }
@@ -1867,6 +2911,12 @@
             "state": "translated",
             "value": "Imagen"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "画面"
+          }
         }
       }
     },
@@ -1876,6 +2926,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Reproducir (espacio)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "播放（空格）"
           }
         }
       }
@@ -1887,6 +2943,12 @@
             "state": "translated",
             "value": "Sonido y aviso al terminar de descargar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载完成后播放声音并通知"
+          }
         }
       }
     },
@@ -1896,6 +2958,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enchufá la cámara a esta Mac con un cable USB-C."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用 USB-C 数据线将相机连接到这台 Mac。"
           }
         }
       }
@@ -1907,11 +2975,25 @@
             "state": "translated",
             "value": "Conectada por cable"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有线设备"
+          }
         }
       }
     },
     "Pocket 3 · Pocket 4 · Nano · Action 4 · 5 Pro · 6": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pocket 3 · Pocket 4 · Nano · Action 4 · 5 Pro · 6"
+          }
+        }
+      }
     },
     "Preparing…": {
       "localizations": {
@@ -1919,6 +3001,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Preparando…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备…"
           }
         }
       }
@@ -1930,6 +3018,12 @@
             "state": "translated",
             "value": "Vista previa"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "预览"
+          }
         }
       }
     },
@@ -1939,6 +3033,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Anterior"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一个"
           }
         }
       }
@@ -1950,6 +3050,12 @@
             "state": "translated",
             "value": "Anterior (←)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一个（←）"
+          }
         }
       }
     },
@@ -1959,6 +3065,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Progreso"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "进度"
           }
         }
       }
@@ -1970,6 +3082,12 @@
             "state": "translated",
             "value": "Investigación del protocolo"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "协议研究"
+          }
         }
       }
     },
@@ -1979,6 +3097,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "En cola"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已排队"
           }
         }
       }
@@ -1990,6 +3114,12 @@
             "state": "translated",
             "value": "Salir"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出"
+          }
         }
       }
     },
@@ -1999,6 +3129,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "¿Salir mientras se copian archivos?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件正在复制，是否退出？"
           }
         }
       }
@@ -2010,6 +3146,12 @@
             "state": "translated",
             "value": "¿Salir mientras se descargan archivos?"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件正在下载，是否退出？"
+          }
         }
       }
     },
@@ -2019,6 +3161,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "REC"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "录制"
           }
         }
       }
@@ -2030,6 +3178,12 @@
             "state": "translated",
             "value": "Lectura"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "读取"
+          }
         }
       }
     },
@@ -2039,6 +3193,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Leyendo la tarjeta de la cámara…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在读取相机存储卡…"
           }
         }
       }
@@ -2050,6 +3210,12 @@
             "state": "translated",
             "value": "Rec"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "录制"
+          }
         }
       }
     },
@@ -2059,6 +3225,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Reconectar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新连接"
           }
         }
       }
@@ -2070,6 +3242,12 @@
             "state": "translated",
             "value": "Reconectando"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在重新连接"
+          }
         }
       }
     },
@@ -2079,6 +3257,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Grabar"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "录像"
           }
         }
       }
@@ -2090,6 +3274,12 @@
             "state": "translated",
             "value": "Grabá, sacá fotos y mirá lo que ve la cámara (por Wi-Fi)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过 Wi-Fi 录像、拍照和查看实时画面"
+          }
         }
       }
     },
@@ -2099,6 +3289,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Grabando"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在录制"
           }
         }
       }
@@ -2110,6 +3306,12 @@
             "state": "translated",
             "value": "Liberar la cámara y volver a tu Wi-Fi"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "释放相机并让 Mac 恢复原来的 Wi-Fi"
+          }
         }
       }
     },
@@ -2119,6 +3321,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Quitar de la selección"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从选择中移除"
           }
         }
       }
@@ -2130,6 +3338,12 @@
             "state": "translated",
             "value": "Reportar un problema…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "反馈问题…"
+          }
         }
       }
     },
@@ -2139,6 +3353,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Restablecer"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置"
           }
         }
       }
@@ -2150,6 +3370,12 @@
             "state": "translated",
             "value": "Cámaras guardadas"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存的相机"
+          }
         }
       }
     },
@@ -2159,6 +3385,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Destino"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存位置"
           }
         }
       }
@@ -2170,6 +3402,12 @@
             "state": "translated",
             "value": "Buscando…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在搜索…"
+          }
         }
       }
     },
@@ -2179,6 +3417,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Seleccionar todo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全选"
           }
         }
       }
@@ -2190,6 +3434,12 @@
             "state": "translated",
             "value": "Seleccionar nuevos"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择新素材"
+          }
         }
       }
     },
@@ -2199,6 +3449,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Elegidos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已选择"
           }
         }
       }
@@ -2210,6 +3466,12 @@
             "state": "translated",
             "value": "Configuración"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
         }
       }
     },
@@ -2219,6 +3481,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ver"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示"
           }
         }
       }
@@ -2230,6 +3498,12 @@
             "state": "translated",
             "value": "Mostrar en Finder"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在访达中显示"
+          }
         }
       }
     },
@@ -2239,6 +3513,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Disparo"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快门"
           }
         }
       }
@@ -2250,6 +3530,12 @@
             "state": "translated",
             "value": "Señal"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "信号"
+          }
         }
       }
     },
@@ -2259,6 +3545,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Señal %lld dBm"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "信号 %lld dBm"
           }
         }
       }
@@ -2270,6 +3562,12 @@
             "state": "translated",
             "value": "Cámara lenta"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "慢动作"
+          }
         }
       }
     },
@@ -2279,6 +3577,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Organizar en subcarpetas por fecha (AAAA-MM-DD)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按日期分文件夹保存（年-月-日）"
           }
         }
       }
@@ -2290,6 +3594,12 @@
             "state": "translated",
             "value": "Vel"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "速度"
+          }
         }
       }
     },
@@ -2299,6 +3609,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Favoritos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已收藏"
           }
         }
       }
@@ -2310,6 +3626,12 @@
             "state": "translated",
             "value": "Empezar a grabar (↩)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始录制（↩）"
+          }
         }
       }
     },
@@ -2319,6 +3641,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Iniciando"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在启动"
           }
         }
       }
@@ -2330,6 +3658,12 @@
             "state": "translated",
             "value": "Iniciando vista en vivo…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在启动实时预览…"
+          }
         }
       }
     },
@@ -2339,6 +3673,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Estado"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "状态"
           }
         }
       }
@@ -2350,6 +3690,12 @@
             "state": "translated",
             "value": "Paso %lld de %lld"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第 %lld 步，共 %lld 步"
+          }
         }
       }
     },
@@ -2359,6 +3705,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Detener"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止"
           }
         }
       }
@@ -2370,6 +3722,12 @@
             "state": "translated",
             "value": "Dejar de grabar (↩)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止录制（↩）"
+          }
         }
       }
     },
@@ -2379,6 +3737,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dejá de grabar antes de salir de En vivo."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离开实时画面前请先停止录制。"
           }
         }
       }
@@ -2390,6 +3754,12 @@
             "state": "translated",
             "value": "Sacar foto"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍照"
+          }
         }
       }
     },
@@ -2399,6 +3769,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sacar una foto (↩)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍照（↩）"
           }
         }
       }
@@ -2410,6 +3786,12 @@
             "state": "translated",
             "value": "Registro técnico"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "技术日志"
+          }
         }
       }
     },
@@ -2419,6 +3801,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Registro técnico"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "技术日志"
           }
         }
       }
@@ -2430,6 +3818,12 @@
             "state": "translated",
             "value": "Pruebas"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "测试者"
+          }
         }
       }
     },
@@ -2439,6 +3833,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ese disco no tiene carpeta DCIM, así que no hay nada de una cámara ahí."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此磁盘没有 DCIM 文件夹，未找到相机素材。"
           }
         }
       }
@@ -2450,6 +3850,12 @@
             "state": "translated",
             "value": "El Bluetooth de la Mac está apagado."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac 的蓝牙已关闭。"
+          }
         }
       }
     },
@@ -2459,6 +3865,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "El cable negoció %@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据线协商规格：%@"
           }
         }
       }
@@ -2470,6 +3882,12 @@
             "state": "translated",
             "value": "La cámara cerró la conexión Bluetooth."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机已关闭蓝牙连接。"
+          }
         }
       }
     },
@@ -2479,6 +3897,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La cámara no aceptó el comando. Probá de nuevo."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未接受指令。请重试。"
           }
         }
       }
@@ -2490,6 +3914,12 @@
             "state": "translated",
             "value": "La cámara no respondió en el enlace de datos. Si macOS preguntó por acceso a la red local, permitilo y reintentá."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未响应数据连接。如 macOS 询问本地网络权限，请允许后重试。"
+          }
         }
       }
     },
@@ -2499,6 +3929,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La cámara no cambió de modo. Probá de nuevo o cambialo en la cámara."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未切换模式。请重试，或在相机上手动切换。"
           }
         }
       }
@@ -2510,6 +3946,12 @@
             "state": "translated",
             "value": "La cámara no entregó su Wi-Fi. Probá apagarla y encenderla."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未提供 Wi-Fi 信息。请将相机关机后重新开机。"
+          }
         }
       }
     },
@@ -2519,6 +3961,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La cámara no la envió por Bluetooth. Está en su pantalla: Ajustes › Conexión inalámbrica (red %@)."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未通过蓝牙发送密码。可在相机屏幕的“设置 › 无线连接”中查看（网络 %@）。"
           }
         }
       }
@@ -2530,6 +3978,12 @@
             "state": "translated",
             "value": "La cámara no pasó a modo captura."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机未切换到拍摄模式。"
+          }
         }
       }
     },
@@ -2539,6 +3993,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La tarjeta de la cámara, por cable. Sin Wi-Fi, y no perdés Internet."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过数据线读取相机存储卡。无需 Wi-Fi，不影响上网。"
           }
         }
       }
@@ -2550,6 +4010,12 @@
             "state": "translated",
             "value": "La tarjeta de la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机存储卡"
+          }
         }
       }
     },
@@ -2559,6 +4025,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La tarjeta está vacía"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储卡为空"
           }
         }
       }
@@ -2570,6 +4042,12 @@
             "state": "translated",
             "value": "Se desconectó la tarjeta."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储卡已拔出。"
+          }
         }
       }
     },
@@ -2579,6 +4057,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Se desconectó la tarjeta. Lo que ya llegó quedó guardado."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储卡已拔出。已传输的内容已保留。"
           }
         }
       }
@@ -2590,6 +4074,12 @@
             "state": "translated",
             "value": "La actualización no terminó de descargarse. No se instaló nada; probá más tarde."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新未下载完成，未安装任何内容。请稍后重试。"
+          }
         }
       }
     },
@@ -2599,6 +4089,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La actualización no contiene una copia válida de Osmotic. No se instaló nada."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新中没有有效的 Osmotic 应用，未安装任何内容。"
           }
         }
       }
@@ -2610,6 +4106,12 @@
             "state": "translated",
             "value": "La firma de la actualización no coincide. No se instaló nada."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新签名不匹配，未安装任何内容。"
+          }
         }
       }
     },
@@ -2619,6 +4121,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "No hay videos ni fotos en la cámara."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机中没有视频或照片。"
           }
         }
       }
@@ -2630,6 +4138,12 @@
             "state": "translated",
             "value": "Esta Mac no tiene Bluetooth LE."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这台 Mac 不支持低功耗蓝牙。"
+          }
         }
       }
     },
@@ -2639,6 +4153,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esta Mac no tiene una interfaz Wi-Fi disponible."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这台 Mac 没有可用的 Wi-Fi 接口。"
           }
         }
       }
@@ -2650,6 +4170,12 @@
             "state": "translated",
             "value": "Esta cámara nunca fue activada, así que no enciende su Wi-Fi. Activala una vez con DJI Mimo."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此相机尚未激活，无法打开 Wi-Fi。请先用 DJI Mimo 激活一次。"
+          }
         }
       }
     },
@@ -2659,6 +4185,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Timelapse"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "延时摄影"
           }
         }
       }
@@ -2670,6 +4202,12 @@
             "state": "translated",
             "value": "Hoy"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
+          }
         }
       }
     },
@@ -2679,6 +4217,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Transferir"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "传输"
           }
         }
       }
@@ -2690,6 +4234,12 @@
             "state": "translated",
             "value": "Reintentar"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试"
+          }
         }
       }
     },
@@ -2699,6 +4249,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Probá con otra vista."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "试试其他视图。"
           }
         }
       }
@@ -2710,6 +4266,12 @@
             "state": "translated",
             "value": "Encendé tu cámara y acercala a la Mac"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开相机并将其靠近 Mac"
+          }
         }
       }
     },
@@ -2719,6 +4281,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "No disponible"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不可用"
           }
         }
       }
@@ -2730,6 +4298,12 @@
             "state": "translated",
             "value": "Desmontar la tarjeta para poder sacar el cable"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推出存储卡后可拔出数据线"
+          }
         }
       }
     },
@@ -2739,6 +4313,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Actualizaciones"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新"
           }
         }
       }
@@ -2750,6 +4330,12 @@
             "state": "translated",
             "value": "Usá la cámara como webcam por USB"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通过 USB 将相机用作网络摄像头"
+          }
         }
       }
     },
@@ -2759,6 +4345,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Versión"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本"
           }
         }
       }
@@ -2770,6 +4362,12 @@
             "state": "translated",
             "value": "Video"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "录像"
+          }
         }
       }
     },
@@ -2779,6 +4377,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Videos"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "视频"
           }
         }
       }
@@ -2790,6 +4394,12 @@
             "state": "translated",
             "value": "Ver (espacio)"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看（空格）"
+          }
         }
       }
     },
@@ -2799,6 +4409,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esperando"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "等待中"
           }
         }
       }
@@ -2810,6 +4426,12 @@
             "state": "translated",
             "value": "Esperando la red %@…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在等待 %@ 网络…"
+          }
         }
       }
     },
@@ -2819,6 +4441,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Esperando que la cámara encienda su Wi-Fi…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在等待相机打开 Wi-Fi…"
           }
         }
       }
@@ -2830,6 +4458,12 @@
             "state": "translated",
             "value": "Esperando a la cámara…"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在等待相机…"
+          }
         }
       }
     },
@@ -2839,6 +4473,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Webcam"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网络摄像头"
           }
         }
       }
@@ -2850,6 +4490,12 @@
             "state": "translated",
             "value": "Imagen de la webcam"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "摄像头画面"
+          }
         }
       }
     },
@@ -2859,6 +4505,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lo ya descargado queda guardado; lo demás se reanuda la próxima vez."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已传输的内容会保留，其余内容可下次继续。"
           }
         }
       }
@@ -2870,6 +4522,12 @@
             "state": "translated",
             "value": "Novedades de %@"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 更新内容"
+          }
         }
       }
     },
@@ -2880,11 +4538,25 @@
             "state": "translated",
             "value": "Mientras dure la conexión, tu Mac usa el Wi-Fi de la cámara y queda sin Internet por Wi-Fi; al desconectar vuelve a tu red. Para seguir con Internet, conectá la Mac por Ethernet o el iPhone por cable con Compartir Internet."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连接期间，Mac 使用相机的 Wi-Fi，无法通过 Wi-Fi 上网；断开后会恢复原来的网络。如需保持上网，可使用以太网或通过 USB 共享 iPhone 网络。"
+          }
         }
       }
     },
     "Wi-Fi": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi-Fi"
+          }
+        }
+      }
     },
     "Yesterday": {
       "localizations": {
@@ -2892,6 +4564,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ayer"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
           }
         }
       }
@@ -2903,6 +4581,12 @@
             "state": "translated",
             "value": "desde la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来自相机"
+          }
         }
       }
     },
@@ -2912,6 +4596,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "vista previa liviana"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻量预览"
           }
         }
       }
@@ -2923,6 +4613,12 @@
             "state": "translated",
             "value": "macOS todavía no deja que Osmotic lea la tarjeta. Permitilo en Configuración del Sistema › Privacidad y seguridad › Archivos y carpetas, o elegí la tarjeta vos."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 尚未允许 Osmotic 读取存储卡。请在“系统设置 › 隐私与安全性 › 文件与文件夹”中允许，或手动选择存储卡。"
+          }
         }
       }
     },
@@ -2932,6 +4628,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "en tu Mac"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已在 Mac 上"
           }
         }
       }
@@ -2943,6 +4645,12 @@
             "state": "translated",
             "value": "original desde la cámara"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机原文件"
+          }
         }
       }
     },
@@ -2953,11 +4661,25 @@
             "state": "translated",
             "value": "original en tu Mac"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac 上的原文件"
+          }
         }
       }
     },
     "osmotic": {
-      "shouldTranslate": false
+      "shouldTranslate": false,
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "osmotic"
+          }
+        }
+      }
     },
     "password (8 or more characters)": {
       "localizations": {
@@ -2965,6 +4687,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "contraseña (8 caracteres o más)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "密码（至少 8 个字符）"
           }
         }
       }
@@ -2976,6 +4704,12 @@
             "state": "translated",
             "value": "señal"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "信号"
+          }
         }
       }
     },
@@ -2985,6 +4719,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "· midiendo…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· 正在测速…"
           }
         }
       }
@@ -2996,6 +4736,12 @@
             "state": "translated",
             "value": "· fuera de alcance"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· 不在范围内"
+          }
         }
       }
     },
@@ -3006,6 +4752,12 @@
             "state": "translated",
             "value": "· guardada"
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· 已保存"
+          }
         }
       }
     },
@@ -3015,6 +4767,92 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ está enchufada, pero su tarjeta no aparece. Desenchufá el cable y volvé a enchufarlo, o elegí almacenamiento USB en la cámara."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 已连接，但未显示存储卡。请重新插拔数据线，或在相机上选择 USB 存储模式。"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语言"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
+          }
+        }
+      }
+    },
+    "Interface language": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "界面语言"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma de la interfaz"
+          }
+        }
+      }
+    },
+    "Restart Now": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即重启"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reiniciar ahora"
+          }
+        }
+      }
+    },
+    "Restart to apply the language to all windows and menus. Your camera will disconnect first.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重启后所有窗口和菜单都会使用新语言。重启前会先断开相机连接。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reiniciá para aplicar el idioma a todas las ventanas y menús. Primero se desconectará la cámara."
+          }
+        }
+      }
+    },
+    "Follow System": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跟随系统"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seguir el sistema"
           }
         }
       }

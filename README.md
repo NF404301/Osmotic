@@ -24,6 +24,16 @@ Download your footage over Wi-Fi, control the camera and see it live, or use it 
 
 </div>
 
+## Simplified Chinese fork / 简体中文分支
+
+This fork of [smithplus/Osmotic](https://github.com/smithplus/Osmotic) adds Simplified Chinese interface and permission translations, plus **Settings › General › Language** with **Follow System / 简体中文 / English**. Follow System is the default; manual choices apply after restarting the app. The restart action disconnects the camera first and is unavailable during transfers.
+
+本分支新增简体中文界面与权限说明。在 **设置 → 通用 → 语言** 中选择 **跟随系统 / 简体中文 / English**，默认跟随系统。手动切换后点击“立即重启”生效。保留原项目作者、历史、致谢与 MIT 许可证。
+
+Build this fork from source using the instructions below, replacing the clone URL with `https://github.com/NF404301/Osmotic.git`. The upstream download badges below point to the original English/Spanish releases, and the updater still checks upstream releases; those releases do not contain this fork's Chinese changes. This fork has no separate binary release yet.
+
+Validation: built and packaged on macOS 15.6.1 with Swift 6.2.4; Chinese main/settings screens and English startup verified. An Action 4 media listing was observed, but connection stability and video preview still require further hardware testing.
+
 ## What it does
 
 DJI's own app sends footage wirelessly to a phone only; to get it onto a computer it's a cable or a card reader. Osmotic lets the Mac talk to the camera directly, at about 33 MB/s with a Pocket 3.
